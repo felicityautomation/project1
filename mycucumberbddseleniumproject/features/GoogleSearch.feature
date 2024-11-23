@@ -5,5 +5,5 @@ Feature: Search functionality of the Google
     Given User opened the browser
     When User navigated to the Google search page
     And User enter search keyword
-    And Clicks on Search button
+    And Clicks on Search button123
     And Search results are displayed on Google search page
